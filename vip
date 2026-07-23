@@ -4,7 +4,7 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml," refresh="3600"
 
-# (â—) Last Update: 2026-07-20 10:26:00 GMT+7 "
+# (â—) Last Update: 2026-07-23 10:26:00 GMT+7 "
 
 -------------------------------------------------------------------------------------------------------------------------------
 
@@ -39,8 +39,9 @@ http://157.15.187.3:25092/hls/49/49.m3u8
 #EXTVLCOPT:http-reconnect=true
 https://tvri.cob.web.id/hls2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/262/514262-SNAPSHOT-m.jpg" group-title="Lokal",Sindo News
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BpqTw7x.jpeg" group-title="Lokal",TVR Parlemen
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 
 
 
